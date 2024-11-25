@@ -46,4 +46,6 @@ for managing user data and cart items. It integrates with a PostgreSQL database.
 | **POST**        | `/order/place`                            | Create an order            |
 
 
-# UML DIAGRAM![uml-diagram.png](javaChallenge/uml-diagram.png)
+# UML DIAGRAM
+
+![uml-diagram.png](javaChallenge/uml-diagram.png)
